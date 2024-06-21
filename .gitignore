@@ -1,0 +1,8 @@
+.DS_Store
+.env
+alembic.ini
+
+venv/
+__pycache__/
+.vscode/
+.git/
